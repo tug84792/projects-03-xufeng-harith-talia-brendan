@@ -29,7 +29,8 @@ In the transition from online to brick and mortar, Lisa neglected to switch the 
 ### Xufeng
 ### Brendan
 
-
+## Feature List
+[Trello Board Link] (https://trello.com/c/p2KyVKwq/7-feature-list)
 
 
 # Yolo v4, v3 and v2 for Windows and Linux
