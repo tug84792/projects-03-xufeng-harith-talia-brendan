@@ -2,7 +2,7 @@
 
 ## Project Overview
 This repository is for Temple CIS 3296 Group Project Assignment. 
-The goal of this project is to train a AI model for home-security cameras to identify visitors at front door, sent a notification, and generate a report at the end of the day.
+The goal of this project is to train a AI model for home-security cameras to identify visitors at front door, save the record with times, and sent notifications if needed. The software will stream the video from the security camera as input, analyze and identify visitor with trained model. The software will generate result base on the result given by the model and write it to the log file for tracking purposes. For example, it will record a carrier from UPS stopped by at 10:12am, and a carrier from USPS came to drop a package at 14:25pm. 
 
 The main objects to identify includes:
 1. Amazon delivery-man
