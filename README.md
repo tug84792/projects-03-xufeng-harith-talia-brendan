@@ -36,8 +36,8 @@ Father Christian Condron is a 55-year-old catholic priest who leads a small pari
 
 Recently, Father Condron started getting the communion wine delivered to his church’s address. It is usually delivered during the week when he is not around to pick it up and it ends up sitting outside until he returns. He realized that this will be a problem in the winter because the freezing temperatures could cause the bottle to burst. There is a camera installed but with other deliveries and people dropping off donations it is hard to tell when it arrives without checking his phone all day. He is interested in Knock-Knock since it will let him know when the wine arrives so he can stop by the church and put it inside. 
 
-
-
+## Feature List
+[Trello Board Link](https://trello.com/c/p2KyVKwq/7-feature-list)
 
 # Yolo v4, v3 and v2 for Windows and Linux
 
