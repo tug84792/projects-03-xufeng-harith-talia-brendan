@@ -4,9 +4,9 @@ def checkExtension(images):
     for i in images:
         if i.endswith('jpg'):
             if os.path.isfile(i):
-                print('File works')
-                #upload file
+                print('Downloading: ', i)
+                download(i)
             else:
-                print('File error')
+                print('File error: ', i)
         else:
-            print('File not .jpg')
+            print('File not .jpg:', i)
