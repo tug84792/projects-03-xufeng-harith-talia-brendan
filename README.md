@@ -1,3 +1,37 @@
+# Knock-Knock
+
+## Project Overview
+This repository is for Temple CIS 3296 Group Project Assignment. 
+The goal of this project is to train a AI model for home-security cameras to identify visitors at front door, sent a notification, and generate a report at the end of the day.
+
+The main objects to identify includes:
+1. Amazon delivery-man
+2. UPS delivery-man
+3. Fedex delivery-man
+4. USPS postman
+5. Pizza delivery-man
+6. Package thief (if possible)
+
+## Vision Statement
+For residents or small companies/organizations, who need a way to keep track of received packages for security and organizational purposes, the Knock Knock application is an excellent surveillance system that allows its users to keep an eye on who is delivering packages at their door. Unlike the average security camera system, such as Ring, Knock Knock uses Artificial Intelligence to decipher what kind of delivery-man is at your door-step. Our product will allow users to be notified of when someone is at your door, first determining whether or not they are dropping off a package, as well as which company they are delivering from.
+
+## User Personas
+### Harith
+Dylan, age 27, is a Financial Manager in a large investment firm in Malvern, PA with over 17,000 employees. He is originally from Boston, where he went to Harvard University to obtain a bachelor’s degree in Economics. He is back and forth between Malvern and Boston as he normally visits home at least once a month. He is single and lives with a friend in an apartment near work and hopes to continue his career in the greater Philadelphia area, for now, ultimately moving on to the DMV areas in the future. He initially started his career as a Financial Advisor, taking phone calls with clients daily. After two years, he was promoted to continue the same work, except with higher-risk clients. Two years later, he was once again promoted and now works as a manager for a team of Financial Advisors. 
+
+One thing that Dylan loves to do is online shopping, specifically Amazon. He exclusively shops there. This is because much of his day is taken up by work, so online shopping is much more convenient for him. Additionally, moving around between Boston and Malvern sometimes causes him to put in the wrong address (the opposite one of where he is/will at a given time). Because of these two factors, he would find Knock-Knock useful for tracking his packages. When in Malvern, if a package is from Amazon, chances are it’s his. This way, he can be aware of/make his roommate aware that something he ordered arrived. Likewise, if it’s a package from anywhere else, it’s most likely his roommate’s, or a special package that he wasn’t expecting. Additionally, if the package was delivered in Boston, he would know that as well. This way, he can let his family know right away. 
+
+### Talia
+Lisa, age 38, runs a small boutique in the suburbs of Philadelphia where she sells handmade jewelry. She grew up in the area, and attended Tyler School of Art to study fine art. After graduation, she struggled to find a job, and pivoted to making jewelry and selling it online, where she found enough success to open a brick and mortar boutique after 5 years. She is married to a schoolteacher, and has 2 school age children, one who is 6 and one who is 8, meaning the house is left empty during the day. Although she runs her own business, Lisa tends to be a bit disorganized, and often mixes up personal and business accounts for various services. 
+
+In the transition from online to brick and mortar, Lisa neglected to switch the address for shipping for a few of her accounts with the companies that provide her supplies. Her home is just a 5-minute drive from the boutique, so she often goes back and forth to pick up packages. Some of her supplies are sent through Amazon, but her essential materials come from specialty companies, and are delivered by FedEx and UPS. Also, almost all of her and her family’s personal packages are delivered through Amazon. Lisa would find Knock-Knock useful as a place where notifications about packages being delivered are aggregated, rather than being spread across different accounts, and she can decide, based on who delivered the package, whether she should leave the boutique to pick up the package, or should just leave it on her front porch for the day.
+
+### Xufeng
+### Brendan
+
+
+
+
 # Yolo v4, v3 and v2 for Windows and Linux
 
 ## (neural networks for object detection)
