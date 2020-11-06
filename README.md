@@ -27,7 +27,11 @@ Lisa, age 38, runs a small boutique in the suburbs of Philadelphia where she sel
 In the transition from online to brick and mortar, Lisa neglected to switch the address for shipping for a few of her accounts with the companies that provide her supplies. Her home is just a 5-minute drive from the boutique, so she often goes back and forth to pick up packages. Some of her supplies are sent through Amazon, but her essential materials come from specialty companies, and are delivered by FedEx and UPS. Also, almost all of her and her family’s personal packages are delivered through Amazon. Lisa would find Knock-Knock useful as a place where notifications about packages being delivered are aggregated, rather than being spread across different accounts, and she can decide, based on who delivered the package, whether she should leave the boutique to pick up the package, or should just leave it on her front porch for the day.
 
 ### Xufeng
+
 ### Brendan
+Father Christian Condron is a 55-year-old catholic priest who leads a small parish in Collegeville, PA. He lived in this area his whole life and graduated from Archbishop John Carroll High School. After high school, he attended Temple University where he earned a bachelor’s degree in philosophy. He then decided to join a seminary and was ordained a priest 5 years later at the age of 32. He became the pastor of his parish 5 years ago after the former pastor passed away. On the weekends he offers mass and during the weekdays he does volunteer work and works as a substitute teacher at schools in the Archdiocese when needed.  
+
+Recently, Father Condron started getting the communion wine delivered to his church’s address. It is usually delivered during the week when he is not around to pick it up and it ends up sitting outside until he returns. He realized that this will be a problem in the winter because the freezing temperatures could cause the bottle to burst. There is a camera installed but with other deliveries and people dropping off donations it is hard to tell when it arrives without checking his phone all day. He is interested in Knock-Knock since it will let him know when the wine arrives so he can stop by the church and put it inside. 
 
 
 
