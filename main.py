@@ -49,7 +49,7 @@ def main():
     
     #loop through the video
         #a detection go through the rule
-        #a detection go to send email and log if pass the fulr
+        #a detection go to send email and log if pass the rule
         
 if __name__ == "__main__":
   main()
